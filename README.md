@@ -94,7 +94,8 @@ const rushikesh = {
 
 > An intelligent women safety system that protects before danger happens — combining on-device AI, sensors, and real-time alerts to keep every journey safer.
 
-🌐 **Live Project:** [nirbhaya.unaux.com](https://nirbhaya.unaux.com)
+🌐 **Live Project:** [nirbhaya.unaux.com](https://nirbhaya.unaux.com)  
+💻 **GitHub Repository:** [View on GitHub](YOUR_GITHUB_REPOSITORY_LINK)
 
 
 ---
