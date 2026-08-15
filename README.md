@@ -129,16 +129,19 @@ const rushikesh = {
 
 ## 📫 Let's Connect
 
-<div>
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rushikesh-pingale-23226a386/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/rushi_pingale_8877/)
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rushikeshpingle8877@gmail.com)
-
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushikesh-pingale-23226a386/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/rushi_pingale_8877/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:rushikeshpingle8877@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 ---
 
 <div align="center">
