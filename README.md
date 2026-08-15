@@ -129,8 +129,6 @@ const rushikesh = {
 
 ## 📫 Let's Connect
 
-## 📫 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-pingale-23226a386/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
