@@ -8,21 +8,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=rushikesh8877&color=3DDCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-</div>
-
----
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback (light mode) -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
