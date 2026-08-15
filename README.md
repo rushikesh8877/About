@@ -81,44 +81,101 @@ const rushikesh = {
     },
 
     currentFocus: "Exploring new technologies and frameworks",
-
     mindset: "BUILD. BREAK. LEARN. REPEAT.",
-
     funFact: "Coffee + Code = Magic ✨☕"
 };
+```
 
-💼 What I'm Up To
-🔭 Exploring new technologies and frameworks
-🌱 Learning and trying new things
-👯 Looking to collaborate on web development projects
-💬 Ask me about JavaScript, Python, React, Node.js, or anything tech!
-⚡ Coffee + Code = Magic ✨☕
-🚀 Featured Project
-🛡️ Nirbhaya
+---
 
-An intelligent women safety system that protects before danger happens — combining on-device AI, sensors, and real-time alerts to keep every journey safer.
+## 💼 What I'm Up To
 
-🌐 Live Project: nirbhaya.unaux.com
+- 🔭 Exploring **new technologies and frameworks**
+- 🌱 Learning and **trying new things**
+- 👯 Looking to collaborate on **web development projects**
+- 💬 Ask me about **JavaScript, Python, React, or anything tech!**
+- ⚡ **Coffee + Code = Magic ✨☕**
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikesh8877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh8877&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=rushikesh8877&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rushikesh8877&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </div>
-📈 Contribution Graph
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" /> </picture> </div>
-📫 Let's Connect
+---
+
+## 🚀 Featured Project
+
+### 🛡️ Nirbhaya
+
+> An intelligent women safety system that protects before danger happens — combining on-device AI, sensors, and real-time alerts to keep every journey safer.
+
+🌐 **Live Project:** [nirbhaya.unaux.com](https://nirbhaya.unaux.com)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikesh8877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh8877&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-<div align="center">
-💻 Keep Building. Keep Learning.
 
-BUILD. BREAK. LEARN. REPEAT.
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rushikesh8877&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rushikesh8877&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-pingale-23226a386/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rushi_pingale_8877/)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshpingle8877@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning.
+
+**BUILD. BREAK. LEARN. REPEAT.**
 
 <br>
 
-⭐ From rushikesh8877 with ❤️
+**⭐ From [rushikesh8877](https://github.com/rushikesh8877) with ❤️**
 
 </div>
