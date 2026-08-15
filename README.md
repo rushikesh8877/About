@@ -7,7 +7,6 @@
 
 <div align="center">
 
-# RUSHIKESH PINGALE
 
 ### `BUILD. BREAK. LEARN. REPEAT.`
 
