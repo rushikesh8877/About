@@ -6,8 +6,6 @@
 
 ### `BUILD. BREAK. LEARN. REPEAT.`
 
-<img src="https://komarev.com/ghpvc/?username=rushikesh8877&color=3DDCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 <div align="center">
@@ -150,6 +148,16 @@ const rushikesh = {
 **BUILD. BREAK. LEARN. REPEAT.**
 
 <br>
+
+---
+
+<div align="center">
+
+### 💖 Show some love by starring some repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=rushikesh8877&color=3DDCF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **⭐ From [rushikesh8877](https://github.com/rushikesh8877) with ❤️**
 
