@@ -70,10 +70,6 @@ const rushikesh = {
         database: ["Firebase"],
         tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"]
     },
-
-    currentFocus: "Exploring new technologies and frameworks",
-    mindset: "BUILD. BREAK. LEARN. REPEAT.",
-    funFact: "Coffee + Code = Magic ✨☕"
 };
 ```
 
