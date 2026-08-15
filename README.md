@@ -96,17 +96,6 @@ const rushikesh = {
 
 🌐 **Live Project:** [nirbhaya.unaux.com](https://nirbhaya.unaux.com)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikesh8877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh8877&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -119,25 +108,19 @@ const rushikesh = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rushikesh8877&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rushikesh8877/rushikesh8877/output/github-contribution-grid-snake.svg" />
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback (light mode) -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -146,7 +129,7 @@ const rushikesh = {
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rushikesh-pingale-23226a386/)
 
